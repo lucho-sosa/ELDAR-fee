@@ -8,6 +8,6 @@ Las pruebas fueron realizadas con postman. Para las llamadas deben ultilizarse l
 
 ## Respuesta
 
-En caso de que el monton sea mayor que sero y el nombre sea aceptado (VISA, NARA, AMEX), el proceso se realizará correctamente y enviará el nombre de la tarjeta y su tasa correspondiente. 
+En caso de que el monton sea mayor que cero y el nombre sea aceptado (VISA, NARA, AMEX), el proceso se realizará correctamente y enviará el nombre de la tarjeta y su tasa correspondiente. 
 
 Si el nombre de la tarjeta no es aceptado o el monto sea negativo se devuelve en el valor "name" que por favor revise esos valores
